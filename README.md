@@ -1,2 +1,2 @@
 # HTMLProject
-Final Project from WebI Class completed 
+VanGogh Project using HTML5 and CSS3
